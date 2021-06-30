@@ -1,0 +1,13 @@
+$mapWidth: 3840px;
+$mapHeight: 1932px;
+
+@function setWhite($transparency){
+  @return rgba(255,255,255,$transparency)
+}
+@function fontFlash($color){
+  @return 0 0 15px $color,
+  0 0 30px $color,
+  0 0 60px $color,
+  0 0 120px $color,
+  0 0 12px $color;
+}
