@@ -1,4 +1,6 @@
-# dsj_jstztc_web
+# xbBase
+
+## 主要用来展示一些项目中所用到的组件
 
 ## Project setup
 ```
